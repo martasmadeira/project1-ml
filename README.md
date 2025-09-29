@@ -18,5 +18,5 @@ The `src/eda_profiling.py` script generates a profiling HTML report:
 ```bash
 python src/eda_profiling.py
 ```
-Locate the report under: reports/profiling_report.html
+Locate the report under:reports/profiling_report.html
 
